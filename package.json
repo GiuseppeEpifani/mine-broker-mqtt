@@ -1,0 +1,16 @@
+{
+  "name": "test-iot-aedes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.51.2",
+    "mqtt": "^5.7.0",
+    "websocket-stream": "^5.5.2"
+  }
+}
